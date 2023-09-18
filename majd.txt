@@ -1,2 +1,2 @@
-هلا بك في Git 
-hammmmmmmmed
+Hi Git 
+Hi hammmmmmmmed
